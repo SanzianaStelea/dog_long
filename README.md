@@ -1,5 +1,5 @@
 # Project on Classification of galaxies:
-- Sanziana Stelea and Stefan Solomon
+- By Sanziana Stelea and Stefan Solomon
 - This is a didactical project for accustomization with Pytorch, git, data processing
 - Based on Galaxy Zoo 2 Challenge https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge
 - See `Neural Network Project Presentation -Classification of Galaxies-.pdf` for other details
