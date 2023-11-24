@@ -2,7 +2,7 @@
 - Sanziana Stelea and Stefan Solomon
 - This is a didactical project for accustomization with Pytorch, git, data processing
 - Based on Galaxy Zoo 2 Challenge https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge
-- See https://docs.google.com/presentation/d/1Mc8_i46AnoiQD5tMFw0R2Q9QaB0NlMM5IuVVtNYcJH0/edit?usp=sharing for other details
+- See `Neural Network Project Presentation -Classification of Galaxies-.pdf` for other details
 
 ## Content (master branch):
 - Data processing in `shaggy.ipynb`
